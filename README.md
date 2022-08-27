@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DIMORN
-- 👀 I’m interested in making desktop applications on WPF with animations
+- 👀 I’m interested in making desktop applications on WPF or AvaloniaUI
 - 🌱 I’m currently prefer learning C# with WPF
 
 <!---
