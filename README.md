@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DIMORN
-- 👀 I’m interested in creating desktop applications on WPF with animations
-- 🌱 I’m currently learning C# WPF
-- 📫 How to reach me: Discord = HiSerr#0437;
+- 👀 I’m interested in making desktop applications on WPF with animations
+- 🌱 I’m currently prefer learning C# with WPF
 
 <!---
 DIMORN/DIMORN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
