@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DIMORN
+- 👋 Hi, I’m @TELLERMAN
 - 👀 I’m interested in making desktop applications on WPF or AvaloniaUI
 - 🌱 I’m currently prefer learning C# with WPF
 
